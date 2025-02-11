@@ -32,20 +32,12 @@
     "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png"
   },
   {
-    "name": "BTCB Token",
-    "symbol": "BTCB",
-    "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
-    "chainId": 56,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.jpg"
-  },
-  {
     "name": "Tether USD",
     "symbol": "USDT",
     "address": "0x55d398326f99059fF775485246999027B3197955",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    "logoURI": "https://common.onekey-asset.com/token/evm-56/0xdAC17F958D2ee523a2206206994597C13D831ec7.jpg"
   },
   {
     "name": "Cosmos Token",
@@ -61,7 +53,7 @@
     "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    "logoURI": "https://common.onekey-asset.com/token/evm-56/0x6B175474E89094C44Da98b954EedeAC495271d0F.jpg"
   },
 
   {
@@ -184,7 +176,7 @@
     "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.jpg"
+    "logoURI": "https://common.onekey-asset.com/token/evm-56/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.jpg"
   },
   {
     "name": "CertiK Token",
@@ -449,7 +441,7 @@
     "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0xf16e81dce15B08F326220742020379B855B87DF9.jpg"
+    "logoURI": "https://common.onekey-asset.com/token/evm-56/0xf16e81dce15B08F326220742020379B855B87DF9.jpg"
   },
   {
     "name": "NICE",
@@ -457,7 +449,7 @@
     "address": "0x8506560320826e459F356CB56cCF721Da8875414",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0x8506560320826e459F356CB56cCF721Da8875414.jpg"
+    "logoURI": "https://common.onekey-asset.com/token/evm-56/0x8506560320826e459F356CB56cCF721Da8875414.jpg"
   },
   {
     "name": "SushiToken",
@@ -465,7 +457,7 @@
     "address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0x947950BcC74888a40Ffa2593C5798F11Fc9124C4.jpg"
+    "logoURI": "https://common.onekey-asset.com/token/evm-56/0x947950BcC74888a40Ffa2593C5798F11Fc9124C4.jpg"
   },
   {
     "name": "MacaronSwap Token",
@@ -489,7 +481,7 @@
     "address": "0x988c11625472340b7B36FF1534893780E0d8d841",
     "chainId": 56,
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/smartchain/assets/0x988c11625472340b7B36FF1534893780E0d8d841/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/smartchain/assets/0x988c11625472340b7B36FF1534893780E0d8d841.jpg"
   },
   {
     "chainId": 56,
@@ -497,7 +489,7 @@
     "name": "Million",
     "symbol": "MM",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xBF05279F9Bf1CE69bBFEd670813b7e431142Afa4/logo.png"
+    "logoURI": "https://common.onekey-asset.com/token/evm-56/0xBF05279F9Bf1CE69bBFEd670813b7e431142Afa4.jpg"
   },
   {
     "chainId": 56,
@@ -505,7 +497,7 @@
     "name": "WOWSwap",
     "symbol": "WOW",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x3405A1bd46B85c5C029483FbECf2F3E611026e45/logo.png"
+    "logoURI": "https://common.onekey-asset.com/token/evm-56/0x3405A1bd46B85c5C029483FbECf2F3E611026e45.jpg"
   },
   {
     "name": "ShibaWallet",
@@ -521,7 +513,7 @@
     "address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/smartchain/assets/0xEe9801669C6138E84bD50dEB500827b776777d28/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/smartchain/assets/0xEe9801669C6138E84bD50dEB500827b776777d28.jpg"
   },
   {
     "address": "0xfE19F0B51438fd612f6FD59C1dbB3eA319f433Ba",
@@ -529,7 +521,7 @@
     "name": "Magic Internet Money",
     "symbol": "MIM",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0xfE19F0B51438fd612f6FD59C1dbB3eA319f433Ba.jpg"
+    "logoURI": "https://common.onekey-asset.com/token/evm-56/0xfE19F0B51438fd612f6FD59C1dbB3eA319f433Ba.jpg"
   },
   {
     "address": "0x9Fe28D11ce29E340B7124C493F59607cbAB9ce48",
@@ -537,7 +529,7 @@
     "name": "Spell",
     "symbol": "SPELL",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0x9Fe28D11ce29E340B7124C493F59607cbAB9ce48.jpg"
+    "logoURI": "https://common.onekey-asset.com/token/evm-56/0x9Fe28D11ce29E340B7124C493F59607cbAB9ce48.jpg"
   },
   {
     "address": "0x66eFF5221ca926636224650Fd3B9c497FF828F7D",
@@ -545,7 +537,7 @@
     "name": "Staked Spell",
     "symbol": "sSPELL",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0x66eFF5221ca926636224650Fd3B9c497FF828F7D.jpg"
+    "logoURI": "https://common.onekey-asset.com/token/evm-56/0x66eFF5221ca926636224650Fd3B9c497FF828F7D.jpg"
   },
   {
     "address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
@@ -553,7 +545,7 @@
     "name": "Cerby Token",
     "symbol": "CERBY",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png"
+    "logoURI": "https://common.onekey-asset.com/token/evm-56/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840.jpg"
   },
   {
     "address": "0xB0D502E938ed5f4df2E681fE6E419ff29631d62b",
@@ -561,6 +553,6 @@
     "name": "StargateToken",
     "symbol": "STG",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0xB0D502E938ed5f4df2E681fE6E419ff29631d62b.jpg"
+    "logoURI": "https://common.onekey-asset.com/token/evm-56/0xB0D502E938ed5f4df2E681fE6E419ff29631d62b.jpg"
   }
 ]
