@@ -1,0 +1,114 @@
+[
+  {
+    "chainId": 42793,
+    "address": "0x0000000000000000000000000000000000000000",
+    "decimals": 18,
+    "name": "XTZ",
+    "symbol": "XTZ",
+    "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb/logo.png"
+  },
+  {
+    "chainId": 42793,
+    "address": "0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb",
+    "decimals": 18,
+    "name": "Wrapped XTZ",
+    "symbol": "WXTZ",
+    "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xc9B53AB2679f573e480d01e0f49e2B5CFB7a3EAb/logo.png"
+  },
+  {
+    "chainId": 42793,
+    "address": "0x2C03058C8AFC06713be23e58D2febC8337dbfE6A",
+    "decimals": 6,
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661"
+  },
+  {
+    "chainId": 42793,
+    "address": "0x796Ea11Fa2dD751eD01b53C372fFDB4AAa8f00F9",
+    "decimals": 6,
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
+  },
+  {
+    "chainId": 42793,
+    "address": "0xfc24f770F94edBca6D6f885E12d4317320BcB401",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "logoURI": "https://assets.coingecko.com/coins/images/31019/standard/download_%2817%29.png?1696529855"
+  },
+  {
+    "chainId": 42793,
+    "address": "0xbFc94CD2B1E55999Cfc7347a9313e88702B83d0F",
+    "decimals": 8,
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "logoURI": "https://assets.coingecko.com/coins/images/7598/standard/wrapped_bitcoin_wbtc.png?1696507857"
+  },
+  {
+    "chainId": 42793,
+    "address": "0xaA40A1cc1561c584B675cbD12F1423A32E2a0d8C",
+    "decimals": 18,
+    "name": "Wrapped BNB",
+    "symbol": "WBNB",
+    "logoURI": "https://assets.coingecko.com/coins/images/825/standard/bnb-icon2_2x.png?1696501970"
+  },
+  {
+    "chainId": 42793,
+    "address": "0xe820995cD39B6E09EAa7e4e16337184b4A61B644",
+    "decimals": 18,
+    "name": "Wrapped AVAX",
+    "symbol": "WAVAX",
+    "logoURI": "https://assets.coingecko.com/coins/images/12559/standard/Avalanche_Circle_RedWhite_Trans.png?1696512369"
+  },
+  {
+    "chainId": 42793,
+    "address": "0xBBD1F50A212357067318a84179892684e1Ac5181",
+    "decimals": 18,
+    "name": "SHIBA INU",
+    "symbol": "SHIB",
+    "logoURI": "https://assets.coingecko.com/coins/images/11939/standard/shiba.png?1696511800"
+  },
+  {
+    "chainId": 42793,
+    "address": "0xf1289118Ff03F197f0D0A50E4774984e7977965e",
+    "decimals": 18,
+    "name": "BabyTurbo",
+    "symbol": "BTURB",
+    "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xf1289118Ff03F197f0D0A50E4774984e7977965e/logo.png"
+  },
+  {
+    "chainId": 42793,
+    "address": "0xc00cB883b41c800D434947243D537a3896d3e636",
+    "decimals": 18,
+    "name": "Etherlonk",
+    "symbol": "nocoin",
+    "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xc00cB883b41c800D434947243D537a3896d3e636/logo.png"
+  },
+  {
+    "chainId": 42793,
+    "address": "0xfe69127af0b20d70197c23ae8685e7c39ff04783",
+    "decimals": 18,
+    "name": "Little Sushi",
+    "symbol": "LSUSHI",
+    "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xfe69127af0b20d70197c23ae8685e7c39ff04783/logo.png"
+  },
+  {
+    "chainId": 42793,
+    "address": "0xd08B30c1EdA1284cD70E73F29ba27B5315aCc3F9",
+    "decimals": 18,
+    "name": "MOOD",
+    "symbol": "MOOD",
+    "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xd08b30c1eda1284cd70e73f29ba27b5315acc3f9/logo.png"
+  },
+  {
+    "chainId": 42793,
+    "address": "0xa02869C70fB0764e7f4262b4A9f3e678Ff6831B3",
+    "decimals": 18,
+    "name": "Tezos Artist",
+    "symbol": "BROKE",
+    "logoURI": "https://raw.githubusercontent.com/tachyswap/tokenlist/main/token/addresses/0xa02869C70fB0764e7f4262b4A9f3e678Ff6831B3/logo.png"
+  }
+]
