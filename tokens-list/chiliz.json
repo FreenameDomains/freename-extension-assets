@@ -1,0 +1,298 @@
+[
+  {
+    "chainId": 88888,
+    "address": "0x0000000000000000000000000000000000000000",
+    "name": "Chiliz",
+    "symbol": "CHZ",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x677f7e16c7dd57be1d4c8ad1244883214953dc47/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0x677F7e16C7Dd57be1D4C8aD1244883214953DC47",
+    "name": "Wrapped Chiliz",
+    "symbol": "WCHZ",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x677f7e16c7dd57be1d4c8ad1244883214953dc47/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0xEd5740209FcF6974d6f3a5F11e295b5E468aC27c",
+    "name": "KEWL EXCHANGE",
+    "symbol": "KWL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xed5740209fcf6974d6f3a5f11e295b5e468ac27c/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0x8c0b6ea89DABA6516df9437a60cA481501781606",
+    "name": "KAYEN Token",
+    "symbol": "KAYEN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x8c0b6ea89daba6516df9437a60ca481501781606/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0xF3928e7871eb136DD6648Ad08aEEF6B6ea893001",
+    "name": "ChilizInu",
+    "symbol": "ChzInu",
+    "decimals": 4,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xf3928e7871eb136dd6648ad08aeef6b6ea893001/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0x60F397acBCfB8f4e3234C659A3E10867e6fA6b67",
+    "name": "PEPPER",
+    "symbol": "PEPPER",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x60f397acbcfb8f4e3234c659a3e10867e6fa6b67/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0xfed7A6423cdeBb4c05552DC888de5acC657444F4",
+    "name": "TBT",
+    "symbol": "TBT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xfed7a6423cdebb4c05552dc888de5acc657444f4/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0x3720526d4d4C93B9dB7C293587ec02782dC729d9",
+    "name": "Angry HOOP",
+    "symbol": "ANGRY",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x3720526d4d4c93b9db7c293587ec02782dc729d9/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0x75D28E4c65aCD2EB6efCB0D200869E89C2c1ef1f",
+    "name": "Footy Fan",
+    "symbol": "FAFO",
+    "decimals": 2,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x75d28e4c65acd2eb6efcb0d200869e89c2c1ef1f/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0x37C57a89812a0D492AeEd7691F1610CA0a8f74A1",
+    "name": "Tether USDT",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x37c57a89812a0d492aeed7691f1610ca0a8f74a1/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0xa37936F56249965d407E39347528a1A91eB1cbef",
+    "name": "Bridged USDC ChainPort",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xa37936f56249965d407e39347528a1a91eb1cbef/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0x9FAAE77622C49a01fc5817548D4b8f5C2763D9A5",
+    "name": "Chiliz Squad",
+    "symbol": "CHSQUAD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x9faae77622c49a01fc5817548d4b8f5c2763d9a5/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0x2eBEc8E89BB4B9C3681BE4eAA85C391F1cd717cE",
+    "name": "DIVISWAP",
+    "symbol": "DSWAP",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x2ebec8e89bb4b9c3681be4eaa85c391f1cd717ce/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0x68364d82A628b2AaF691d5a6605030f6Dff4436E",
+    "name": "Suck",
+    "symbol": "SUCK",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x68364d82a628b2aaf691d5a6605030f6dff4436e/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0x60cfC65BA14C2f8B111Fc7B152bB11486FDEa822",
+    "name": "FanFanToken",
+    "symbol": "FANFAN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x60cfc65ba14c2f8b111fc7b152bb11486fdea822/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0x1291f5a7B6204155255C868378c246b0E65110F6",
+    "name": "CHILIZ TURTLE",
+    "symbol": "CHZTRTLE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x1291f5a7b6204155255c868378c246b0e65110f6/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0xEfDd09582498184d14aF330e1B02d0c8d63aFED5",
+    "name": "PUMLx",
+    "symbol": "PUMLx",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xefdd09582498184d14af330e1b02d0c8d63afed5/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0x721EF6871f1c4Efe730Dce047D40D1743B886946",
+    "name": "KEWL Wrapped Chiliz",
+    "symbol": "KCHZ",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x721ef6871f1c4efe730dce047d40d1743b886946/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0xE8DFFD460A77e6e643aB12d727305F13810EB4cf",
+    "name": "ChilizKing",
+    "symbol": "KING",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xe8dffd460a77e6e643ab12d727305f13810eb4cf/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0x5A1339C968121A66a0d9e70e43A65186E7e8aa16",
+    "name": "ROULETTE",
+    "symbol": "WTF",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x5a1339c968121a66a0d9e70e43a65186e7e8aa16/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0x81fb6D4b45E0897e2151ad60BE1Ed33d973223CE",
+    "name": "MUNCHIZ",
+    "symbol": "MC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x81fb6d4b45e0897e2151ad60be1ed33d973223ce/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0x13D9E110e0c13016CAF9982CcB79A70aC39C1374",
+    "name": "CHILIZSHIB",
+    "symbol": "CHILIZSHIBA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x13d9e110e0c13016caf9982ccb79a70ac39c1374/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0x1257C62822B6A0736245F88E55347e780ca60206",
+    "name": "Football at AlphaVerse",
+    "symbol": "FAV",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x1257c62822b6a0736245f88e55347e780ca60206/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0x0b7Ff9352eb3baB924A8bf504419C294DaCd9EdC",
+    "name": "Cat Chiliz",
+    "symbol": "CATCHI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x0b7ff9352eb3bab924a8bf504419c294dacd9edc/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0x49598257e62484F46A918862fA88fe116B64f05e",
+    "name": "MILO",
+    "symbol": "MILO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x49598257e62484f46a918862fa88fe116b64f05e/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0x703093C8200662421AD71e3D3Ec4ebcDaAB90266",
+    "name": "Teddy Bear Chiliz",
+    "symbol": "ALBERT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x703093c8200662421ad71e3d3ec4ebcdaab90266/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0x8dD0b17222766169d8cDbe469477d717AFceE32E",
+    "name": "Pepper With Hat",
+    "symbol": "PWIT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x8dd0b17222766169d8cdbe469477d717afcee32e/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0x93b72b70ed785670c7742d8e284af07306538ebb",
+    "name": "Sir Jamal",
+    "symbol": "JAMAL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x93b72b70ed785670c7742d8e284af07306538ebb/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0xB2bf4f0943430717A53Bab1025E092DBC3D557fb",
+    "name": "Germain le Lynx mascot PSG",
+    "symbol": "GERMAIN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xb2bf4f0943430717a53bab1025e092dbc3d557fb/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0xbD0a7FEd244116f8d3E3Db25B06536AbAAcaB7E5",
+    "name": "$AlexTheLlama",
+    "symbol": "$AlexTheLlama",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xbd0a7fed244116f8d3e3db25b06536abaacab7e5/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0xe236a985E61486A5E7DDB80C9b45ac0502A050ad",
+    "name": "Chill Chadz",
+    "symbol": "CHADZ",
+    "decimals": 4,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xe236a985e61486a5e7ddb80c9b45ac0502a050ad/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0x91919FB80C4309ACBc8A538c976D52501D4c7dA6",
+    "name": "Chill EURO 2024",
+    "symbol": "EURO",
+    "decimals": 4,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x91919fb80c4309acbc8a538c976d52501d4c7da6/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0x77B7E52808598A2994f1F0C4a0Cd01f8930Fe2ce",
+    "name": "Dogwifhat Chiliz",
+    "symbol": "Wif",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x77b7e52808598a2994f1f0c4a0cd01f8930fe2ce/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0xE6fE90ce6357532fE0CE72325D572AbbC261eA25",
+    "name": "BUNNY",
+    "symbol": "BUNNY",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0xe6fe90ce6357532fe0ce72325d572abbc261ea25/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0x5380Ec26851c8109BBb1bfcB78Aa138724c6Ec4c",
+    "name": "CHZWIF Chiliz with shoes",
+    "symbol": "CHZWIF",
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x5380ec26851c8109bbb1bfcb78aa138724c6ec4c/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0x932b99D32d4a3364bcE3ce7F8dc9Aa49534Ec9E3",
+    "name": "Chiliz PEPE",
+    "symbol": "CHZPEPE",
+    "decimals": 4,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x932b99d32d4a3364bce3ce7f8dc9aa49534ec9e3/logo.svg"
+  },
+  {
+    "chainId": 88888,
+    "address": "0x9631be8566fC71d91970b10AcfdEe29F21Da6C27",
+    "name": "Intelligent Monsters",
+    "symbol": "IMON",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/kewlexchange/assets/main/chiliz/tokens/0x9631be8566fc71d91970b10acfdee29f21da6c27/logo.svg"
+  }
+]
