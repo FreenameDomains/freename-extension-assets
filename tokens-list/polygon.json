@@ -45,7 +45,7 @@
     "symbol": "UNI",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/standard/uni.jpg?1696512319"
   },
   {
     "name": "Tether USD",

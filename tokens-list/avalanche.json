@@ -125,7 +125,7 @@
     "name": "Frax",
     "symbol": "FRAX",
     "decimals": 18,
-    "logoURI": "https://common.onekey-asset.com/token/evm-43114/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64.png"
+    "logoURI": "https://common.onekey-asset.com/token/evm-43114/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64.jpg"
   },
   {
     "address": "0x214DB107654fF987AD859F34125307783fC8e387",
@@ -133,7 +133,7 @@
     "name": "Frax Share",
     "symbol": "FXS",
     "decimals": 18,
-    "logoURI": "https://common.onekey-asset.com/token/evm-43114/0x214DB107654fF987AD859F34125307783fC8e387.png"
+    "logoURI": "https://common.onekey-asset.com/token/evm-43114/0x214DB107654fF987AD859F34125307783fC8e387.jpg"
   },
   {
     "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",

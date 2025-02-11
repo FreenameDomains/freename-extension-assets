@@ -21,7 +21,7 @@
     "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png"
+    "logoURI": "https://cryptologos.cc/logos/binance-usd-busd-logo.png?v=014"
   },
   {
     "name": "Ethereum Token",
@@ -37,7 +37,7 @@
     "address": "0x55d398326f99059fF775485246999027B3197955",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://common.onekey-asset.com/token/evm-56/0xdAC17F958D2ee523a2206206994597C13D831ec7.jpg"
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   },
   {
     "name": "Cosmos Token",
@@ -53,7 +53,7 @@
     "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://common.onekey-asset.com/token/evm-56/0x6B175474E89094C44Da98b954EedeAC495271d0F.jpg"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/dai.png"
   },
 
   {
@@ -476,46 +476,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/15626/small/wenlambo.jpg?1621351104"
   },
   {
-    "name": "WrappedConceal",
-    "symbol": "wCCX",
-    "address": "0x988c11625472340b7B36FF1534893780E0d8d841",
-    "chainId": 56,
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/smartchain/assets/0x988c11625472340b7B36FF1534893780E0d8d841.jpg"
-  },
-  {
-    "chainId": 56,
-    "address": "0xBF05279F9Bf1CE69bBFEd670813b7e431142Afa4",
-    "name": "Million",
-    "symbol": "MM",
-    "decimals": 18,
-    "logoURI": "https://common.onekey-asset.com/token/evm-56/0xBF05279F9Bf1CE69bBFEd670813b7e431142Afa4.jpg"
-  },
-  {
-    "chainId": 56,
-    "address": "0x4DA996C5Fe84755C80e108cf96Fe705174c5e36A",
-    "name": "WOWSwap",
-    "symbol": "WOW",
-    "decimals": 18,
-    "logoURI": "https://common.onekey-asset.com/token/evm-56/0x3405A1bd46B85c5C029483FbECf2F3E611026e45.jpg"
-  },
-  {
-    "name": "ShibaWallet",
-    "symbol": "SHWA",
-    "address": "0x4A2940263acfd179dBc1C6B69A3392671ACCaf5B",
-    "chainId": 56,
-    "decimals": 18,
-    "logoURI": "https://shibawallet.pro/assets/favicon32x32.png"
-  },
-  {
-    "name": "O3 Swap Token",
-    "symbol": "O3",
-    "address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
-    "chainId": 56,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/smartchain/assets/0xEe9801669C6138E84bD50dEB500827b776777d28.jpg"
-  },
-  {
     "address": "0xfE19F0B51438fd612f6FD59C1dbB3eA319f433Ba",
     "chainId": 56,
     "name": "Magic Internet Money",
@@ -538,14 +498,6 @@
     "symbol": "sSPELL",
     "decimals": 18,
     "logoURI": "https://common.onekey-asset.com/token/evm-56/0x66eFF5221ca926636224650Fd3B9c497FF828F7D.jpg"
-  },
-  {
-    "address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
-    "chainId": 56,
-    "name": "Cerby Token",
-    "symbol": "CERBY",
-    "decimals": 18,
-    "logoURI": "https://common.onekey-asset.com/token/evm-56/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840.jpg"
   },
   {
     "address": "0xB0D502E938ed5f4df2E681fE6E419ff29631d62b",
